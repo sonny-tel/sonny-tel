@@ -1,7 +1,7 @@
 ### Hey, I'm Will
 
 I write code and occassionally look at IDA for some extended periods of time.
- * Enquiries  `info@sonny.tel`
+ * Email:  `info@sonny.tel`
 
 [CodeStats](https://codestats.net/users/vitalised)
 
