@@ -1,6 +1,6 @@
 ### Hey, I'm Will
 
-I write code and occassionally look at IDA for some extended periods of time.
+I write code and occassionally look at IDA for some extended periods of time, also a professional Squirrel slave.
  * Email:  `info@sonny.tel`
 
 [CodeStats](https://codestats.net/users/vitalised)
